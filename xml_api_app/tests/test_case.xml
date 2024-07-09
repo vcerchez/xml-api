@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<STANDARD>
+    <META>
+        <DOCUMENT.REF>
+            <DATE ISO="20240101">20240101</DATE>
+        </DOCUMENT.REF>
+        <PUBLICATION.REF FILE="file.xml">
+            <LG.OJ>LAN</LG.OJ>
+        </PUBLICATION.REF>
+        <SOURCE>J_Name</SOURCE>
+        <CELEX>12345A6789</CELEX>
+    </META>
+    <CONTENU>
+        <TITRE>
+            Doc title.
+        </TITRE>
+        <PREAMBULE>
+            Doc preambule.
+        </PREAMBULE>
+        <ARTICLES>
+            Doc articles.
+        </ARTICLES>
+        <SIGNATURE>
+            Signed.
+        </SIGNATURE>
+    </CONTENU>
+    <ANNEXES>
+        Doc annexes.
+    </ANNEXES>
+</STANDARD>
